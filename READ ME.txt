@@ -1,0 +1,19 @@
+Esame di Data Visualization - Modulo Cabitza
+
+Componenti del gruppo:
+
+- Prete Francesco 793389 
+- Rima Mirko 793435
+- Spreafico Andrea 793317
+
+Corso di studi:
+- TTC (anche se ogni componente frequenta il corso di studi magistrale in informatica)
+
+Link alle infografiche presenti su tableau public:
+
+https://public.tableau.com/profile/mirko4567#!/vizhome/BestlargeITcompaniestoworkfor_0/FinalProject
+
+Nella cartella drive è presente il file di lavoro di tableau:
+- final_project.twb
+
+Inoltre nella cartella "Dataset" sono presenti i set di dati utilizzati per la realizzazione delle infografiche
