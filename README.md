@@ -1,0 +1,2 @@
+# Tableau_ITCompanies
+Lo scopo di questo lavoro `e quello di creare uno strumento di valutazione intuitivo ed efficace per chi, nel 2019, sta considerando la possibilità di lavorare nel settore IT. Nello specifico, lo studio permette di confrontare quattro tra  le maggiori aziende del settore: Amazon, Apple, Google e Microsoft, utilizzando per la valutazione le recensioni di dipendenti ed ex dipendenti sparsi in tutto il mondo.
